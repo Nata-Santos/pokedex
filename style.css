@@ -1,0 +1,19 @@
+
+body{
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-flow: column;
+}
+#fotoPokemon{
+    max-height:75vh;
+}
+
+#nomePokemon{
+    font-size: 22px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: blanchedalmond;
+}
+
